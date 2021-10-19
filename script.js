@@ -14,7 +14,7 @@ window.onscroll = function() {
   }); */
 
 let img = new Image();
-img.src = '/gifs/stormtrooper-Sheet.png';
+img.src = 'gifs/stormtrooper-Sheet.png';
 img.onload = function(){
     init();
 };
